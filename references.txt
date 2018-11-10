@@ -1,0 +1,8 @@
+Bounce Angles Picture:
+    http://www.zekechan.net/getting-started-html5-game-development-pong5/
+
+Icon:
+    https://github.com/bozidarsevo/sprite-kit-pong
+
+Audio Files:
+    http://cs.au.dk/~dsound/DigitalAudio.dir/Greenfoot/Pong.dir/Pong.html
